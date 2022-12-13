@@ -2,7 +2,7 @@ Estou aprendendo a programar em java e fiz esse código para exercitar a minha l
 
 ## Descrição do projeto 
 
-Esse programa foi criado para um hotel fictício. Nele será informado o valor da diária do hotel, depois o nome e a idade do hóspede. Se o hóspede tiver menos de 4 anos ele não paga a diária, se ele tiver mais de 80 anos pagará só meia entrada.
+Esse programa foi criado para um hotel fictício. Nele será informado o valor da diária do hotel, depois o nome e a idade do hóspede. Se o hóspede tiver menos de 4 anos ele não paga a diária, se ele tiver mais de 80 anos pagará só meia diária.
 
 No final do programa, será informado o valor total das diárias, a quantidade de meias diárias e a quantidade de diárias de graça.
 
