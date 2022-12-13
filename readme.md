@@ -20,7 +20,13 @@ No final do programa, será informado o valor total das diárias, a quantidade d
 `Funcionalidade 4:` Contar quantas meias diárias e diárias gratuitas o usuário digitou.
 <br>
 
-`Funcionalidade 5:` Somar e mostrar o valor da meia diária (caso o hóspede tenha mais do que 80 anos), ou da diária.
+`Funcionalidade 5:` Verificar a maior e menor idade entre os hóspedes.
+<br>
+
+`Funcionalidade 6:` Somar e mostrar o valor da meia diária (caso o hóspede tenha mais do que 80 anos), ou da diária.
+<br>
+
+`Funcionalidade 7:` Informar o nome e a idade do hóspede mais velho e do hóspede mais novo.
 <br>
 
 
